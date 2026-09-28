@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+anthropic
+twilio
+google-api-python-client
+pydantic
